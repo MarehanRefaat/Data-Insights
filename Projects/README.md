@@ -5,8 +5,8 @@ In this notebook, we will take a look at a dataset of The Office episodes, and t
 This dataset contains information on a variety of characteristics of each episode. In detail, these are:
 
 datasets/office_episodes.csv
-episode_number: Canonical episode number.
-season: Season in which the episode appeared.
+- episode_number: Canonical episode number.
+- season: Season in which the episode appeared.
 episode_title: Title of the episode.
 description: Description of the episode.
 ratings: Average IMDB rating.
